@@ -1,0 +1,1 @@
+export const contex = document.querySelector(".someDiv");
